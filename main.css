@@ -45,16 +45,17 @@ h1 {
     cursor: pointer;
 }
 
-.bkg--green {
-    background: #C4FF96;
+.bkg--img {
+    background-image: url(./SVG/Asset\ 1.svg);
+    background-size: cover;
 }
 
-.bkg--pink {
-    background: #FF96CF;
+.bkg--yellow {
+    background: yellow;
 }
 
-.bkg--blue {
-    background: #96D3FF;
+.bkg--redgrad {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 0, 0, 1) 100%);
 }
 
 .logo {
